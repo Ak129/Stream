@@ -1,0 +1,125 @@
+2024-04-13 16:20:58 10182 10182 E/WirelessAdbSetupGuideActivity: gotoWifiSetting
+2024-04-13 16:21:35 10182 10182 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2024-04-13 16:22:16 10182 10182 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2024-04-13 16:23:57 10182 10182 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2024-04-13 16:24:14 10182 10182 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2024-04-13 16:24:18 10182 10182 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: 126, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: 126, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /2409:408a:207:aedf:a2bc:3751:69d9:40c5, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45921, network: 126, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /2409:408a:207:aedf:a2bc:3751:69d9:40c5, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45921, network: 126, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: it.hostAddress fe80::d862:b9ff:fe7c:144f%ap0
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: it.hostAddress 192.168.191.99
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: it.hostAddress fe80::481f:3aff:fe05:195f%dummy0
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: it.hostAddress fe80::103a:e5ff:fe95:565c%wlan0
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: it.hostAddress 2409:408a:207:aedf:103a:e5ff:fe95:565c
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: it.hostAddress 2409:408a:207:aedf:a2bc:3751:69d9:40c5
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: it.hostAddress 192.168.236.120
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceResolved false
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /2409:408a:207:aedf:a2bc:3751:69d9:40c5, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45921, network: 126, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:24:23 10182 10182 E/WirelessAdbManager: found tls connect port 45921
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /2409:408a:207:aedf:a2bc:3751:69d9:40c5, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45921, network: 126, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceLost name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: 126, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceLost name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: 126, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceLost name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onServiceLost name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:24:23 10182 12403 E/AdbMdns: onDiscoveryStopped _adb-tls-connect._tcp
+2024-04-13 16:31:09 10182 10182 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2024-04-13 16:31:26 10182 10182 E/WirelessAdbSetupGuideActivity: goto Open WifiDebug
+2024-04-13 16:31:55 10182 10182 E/WirelessAdbSetupGuideActivity: gotoNotificationSetting
+2024-04-13 16:32:08 12448 12448 D/WirelessAdbManager: init 1.4.2
+2024-04-13 16:32:08 12448 12448 E/WirelessAdbManager: searchTlsTcp
+2024-04-13 16:32:08 12448 12448 E/WirelessAdbManager: start adbmns
+2024-04-13 16:32:08 12448 12448 D/WirelessAdbManager: init okay
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onDiscoveryStarted _adb-tls-connect._tcp
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: 128, txtRecord: 
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: 128, txtRecord: 
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-connect._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, /2409:408a:207:aedf:802e:bad3:f1df:61cc, port: 46499, network: 128, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, /2409:408a:207:aedf:802e:bad3:f1df:61cc, port: 46499, network: 128, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress fe80::d862:b9ff:fe7c:144f%ap0
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress 192.168.191.99
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress fe80::481f:3aff:fe05:195f%dummy0
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress fe80::103a:e5ff:fe95:565c%wlan0
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceResolved true
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, /2409:408a:207:aedf:802e:bad3:f1df:61cc, port: 46499, network: 128, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-connect._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:103a:e5ff:fe95:565c, /2409:408a:207:aedf:802e:bad3:f1df:61cc, port: 46499, network: 128, txtRecord: v=ADB_SECURE_SERVICE_VERSION
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress fe80::d862:b9ff:fe7c:144f%ap0
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress 192.168.191.99
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress fe80::481f:3aff:fe05:195f%dummy0
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress fe80::103a:e5ff:fe95:565c%wlan0
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: it.hostAddress 192.168.236.120
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onServiceResolved true
+2024-04-13 16:32:08 12448 12448 E/WirelessAdbManager: found tls connect port 46499
+2024-04-13 16:32:08 12448 17200 E/AdbMdns: onDiscoveryStopped _adb-tls-connect._tcp
+2024-04-13 16:32:12 12448 12448 E/WirelessAdbSetupGuideActivity: goto Wifi Pairing
+2024-04-13 16:32:12 12448 12448 E/WirelessAdbManager: start adbmns
+2024-04-13 16:32:12 12448 17200 E/AdbMdns: onDiscoveryStarted _adb-tls-pairing._tcp
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-pairing._tcp., subtypes: , hostAddresses: , port: 0, network: 128, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-pairing._tcp., subtypes: , hostAddresses: , port: 0, network: 128, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-pairing._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceFound name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: _adb-tls-pairing._tcp., subtypes: , hostAddresses: , port: 0, network: null, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-pairing._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:2900:a25f:cbf1:706d, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45645, network: 128, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-pairing._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:2900:a25f:cbf1:706d, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45645, network: 128, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress fe80::d862:b9ff:fe7c:144f%ap0
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 192.168.191.99
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress fe80::481f:3aff:fe05:195f%dummy0
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress fe80::103a:e5ff:fe95:565c%wlan0
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 2409:408a:207:aedf:103a:e5ff:fe95:565c
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 2409:408a:207:aedf:2900:a25f:cbf1:706d
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceResolved true
+2024-04-13 16:32:19 12448 12448 E/WirelessAdbManager: found tls pairing port
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-pairing._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:2900:a25f:cbf1:706d, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45645, network: 128, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceResolved name: adb-PJNJPRHIRCMNXKN7-bIpd6k, type: ._adb-tls-pairing._tcp, subtypes: , hostAddresses: /192.168.236.120, /fe80::103a:e5ff:fe95:565c%wlan0, /2409:408a:207:aedf:2900:a25f:cbf1:706d, /2409:408a:207:aedf:103a:e5ff:fe95:565c, port: 45645, network: 128, txtRecord: 
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress fe80::d862:b9ff:fe7c:144f%ap0
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 192.168.191.99
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress fe80::481f:3aff:fe05:195f%dummy0
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress fe80::103a:e5ff:fe95:565c%wlan0
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 2409:408a:207:aedf:103a:e5ff:fe95:565c
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 2409:408a:207:aedf:2900:a25f:cbf1:706d
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: resolvedService.host.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: it.hostAddress 192.168.236.120
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onServiceResolved true
+2024-04-13 16:32:19 12448 17200 E/AdbMdns: onDiscoveryStopped _adb-tls-pairing._tcp
+2024-04-13 16:32:40 12448 12448 E/WirelessAdbManager: startParing code 327128
+2024-04-13 16:32:40 12448 17463 E/WirelessAdbManager: paring host is ip6-localhost
+2024-04-13 16:32:40 12448 17463 E/WirelessAdbManager: paring port is 45645
+2024-04-13 16:32:40 12448 17463 E/WirelessAdbManager: paring code is 327128
+2024-04-13 16:32:41 12448 17463 E/WirelessAdbManager: connect host is ip6-localhost
+2024-04-13 16:32:41 12448 17463 E/WirelessAdbManager: connect port is 46499
+2024-04-13 16:32:41 12448 17463 E/WirelessAdbManager: fixPhantomLimited okay
